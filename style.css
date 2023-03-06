@@ -235,3 +235,13 @@ footer p a:hover{
     color: rgb(169, 219, 252);
     cursor: pointer;
 }
+
+.label{
+    position: absolute;
+    opacity: .1;
+    bottom: 20%;
+    font-size: 64px;
+    left: 25%;
+    color: black;
+    text-align: center;
+}
