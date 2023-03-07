@@ -112,6 +112,7 @@ body {
     padding: 20px;
     background-color: aliceblue;
     text-align: center;
+    width: 206px;
 }
 
 .wrapper .main .cards .card .card-content{
